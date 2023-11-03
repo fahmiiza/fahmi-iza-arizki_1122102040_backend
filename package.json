@@ -1,0 +1,21 @@
+{
+  "name": "backend-fahmi",
+  "version": "1.0.0",
+  "description": "fahmi",
+  "main": "index.js",
+  "scripts": {
+    "test": "fahmi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "fahmi"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "fahmi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
